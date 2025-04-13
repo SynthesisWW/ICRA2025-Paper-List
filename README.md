@@ -2,6 +2,8 @@
 
 This repo contains a list of all the papers being presented at ICRA2025. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
 
+All the data is sourced from the official temporary webpage, which can be found [here](https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ProgramAtAGlanceWeb.html).
+
 You can access this [repo](https://github.com/ryanbgriffiths/ICRA2024PaperList) to get the ICRA 2024 paper list.
 
 Note: This list includes papers that were turned from journals to conference presentations.
